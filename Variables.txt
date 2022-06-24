@@ -1,0 +1,16 @@
+python 
+
+
+   variables
+   x aur y hai
+
+format for variable
+1)abdd
+2)rajkumar_bind
+3)heyrem3543545
+
+dont's
+
+1)12hgdfhg
+2)_gdh
+3)return
